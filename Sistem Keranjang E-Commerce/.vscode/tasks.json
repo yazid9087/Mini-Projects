@@ -8,7 +8,7 @@
             "args": [
                 "-cp",
                 "./bin",
-                "terminal.Main"
+                "terminal.MainToko"
             ],
             "group": {
                 "kind": "build",
