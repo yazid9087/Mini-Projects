@@ -2,6 +2,7 @@ package terminal;
 
 public class Main {
     public static void main(String[] args) {
+        //UjiCoba
         AkunUser akunBudi = new AkunUser("Budi", 50000, 10);
 
         akunBudi.pesanLayanan(new LayananMotor("01", 5, 2000, false));
