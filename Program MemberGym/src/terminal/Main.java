@@ -2,6 +2,7 @@ package terminal;
 
 public class Main {
     public static void main (String[] args){
+        //UjiCoba
         var m1 = new memberGym("Anton", 12, 4, true);
         System.out.println(m1);
         
