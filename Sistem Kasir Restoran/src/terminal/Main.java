@@ -10,10 +10,8 @@ public class Main {
 
         notaBudi.cetakStruk();
 
-        // Kita pakai Polimorfisme: Wadah Induk (Menu), isinya Anak (Makanan)
         Menu tesPesanan = new Makanan("Sate Ayam", 20000, true);
 
-        // Perhatikan: Kita langsung mencetak objeknya, BUKAN memanggil .show()
         System.out.println(tesPesanan);
     }
 }
