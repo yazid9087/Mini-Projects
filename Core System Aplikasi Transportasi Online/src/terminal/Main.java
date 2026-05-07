@@ -11,7 +11,7 @@ public class Main {
         akunBudi.topUp(100000);
 
         akunBudi.pesanLayanan(new LayananMobil("03", 10, 4000, 15000));
-//iyakahh maniezz
+
         akunBudi.cetakMutasi();
     }
 }
